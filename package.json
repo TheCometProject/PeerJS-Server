@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "peer": "^1.0.0"
+  },
+  "name": "peerjs-server",
+  "version": "1.0.0",
+  "description": "PeerJS Server for Comet",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheCometProject/PeerJS-Server.git"
+  },
+  "author": "1mt4y",
+  "license": "GPLv3",
+  "private": "true",
+  "bugs": {
+    "url": "https://github.com/TheCometProject/PeerJS-Server/issues"
+  },
+  "homepage": "https://github.com/TheCometProject/PeerJS-Server#readme",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": []
+}
